@@ -1,0 +1,33 @@
+/***********************Tag Selectors********************/
+body {
+  background-color: #e0ebeb;
+}
+
+h1 {
+  color: #24527a;
+}
+
+h3 {
+  color: #5dacbd;
+}
+
+hr {
+  border-color: black;
+  border-style: dotted none none;
+  border-top-style: dotted;
+  border-width: 7px;
+  height: 2px;
+  width: 10%;
+}
+/***********************Class Selectors********************/
+.profile-img {
+  width: 100px;
+  height: 100px;
+}
+
+.python-img {
+  width: 20px;
+  height: 20px;
+}
+
+/***********************ID Selectors********************/
